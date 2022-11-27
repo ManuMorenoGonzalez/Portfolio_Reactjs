@@ -1,9 +1,11 @@
-[{
+[
+  {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.manumoreno.libretodecarnaval",
       "sha256_cert_fingerprints":
-      ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+        ["03:00:63:28:53:CD:79:FA:5A:A7:C2:C3:D9:E1:04:DE:A4:A7:49:35:9E:24:62:87:DF:D0:49:56:50:EB:BC:1F"]
     }
-}]
+  }
+]
